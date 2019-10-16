@@ -1,0 +1,13 @@
+D:\【C#】网络学习\ZNetSvc\ClientTest\bin\Debug\ClientTest.exe.config
+D:\【C#】网络学习\ZNetSvc\ClientTest\bin\Debug\ClientTest.exe
+D:\【C#】网络学习\ZNetSvc\ClientTest\bin\Debug\ClientTest.pdb
+D:\【C#】网络学习\ZNetSvc\ClientTest\bin\Debug\ZNetSvc.dll
+D:\【C#】网络学习\ZNetSvc\ClientTest\bin\Debug\Newtonsoft.Json.dll
+D:\【C#】网络学习\ZNetSvc\ClientTest\bin\Debug\ZNetSvc.pdb
+D:\【C#】网络学习\ZNetSvc\ClientTest\bin\Debug\ZNetSvc.dll.config
+D:\【C#】网络学习\ZNetSvc\ClientTest\bin\Debug\Newtonsoft.Json.xml
+D:\【C#】网络学习\ZNetSvc\ClientTest\obj\Debug\ClientTest.csprojAssemblyReference.cache
+D:\【C#】网络学习\ZNetSvc\ClientTest\obj\Debug\ClientTest.csproj.CoreCompileInputs.cache
+D:\【C#】网络学习\ZNetSvc\ClientTest\obj\Debug\ClientTest.csproj.CopyComplete
+D:\【C#】网络学习\ZNetSvc\ClientTest\obj\Debug\ClientTest.exe
+D:\【C#】网络学习\ZNetSvc\ClientTest\obj\Debug\ClientTest.pdb
